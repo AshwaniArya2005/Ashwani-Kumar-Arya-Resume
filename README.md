@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science Undergraduate  
 💻 Full Stack (MERN) Developer | Backend-Focused  | ML & Data Science Enthusiast
-📍 Ludhiana, Punjab, India  
+📍 Godda, Jharkhand, India  
 
 ---
 
